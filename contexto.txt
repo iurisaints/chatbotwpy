@@ -1,0 +1,34 @@
+CAFÉ PYTHON — informações para clientes
+
+Endereço: Rua das Variáveis, 42 — Centro
+Telefone / WhatsApp: (11) 4002-8922
+
+Horário de funcionamento:
+- Segunda a sexta: 7h às 19h
+- Sábado: 8h às 14h
+- Domingo e feriados: fechado
+
+Cardápio — bebidas:
+- Café expresso: R$ 6,00
+- Cappuccino: R$ 9,50
+- Chocolate quente: R$ 10,00
+- Chá gelado de limão: R$ 7,00
+- Leite vegetal (aveia ou amêndoa) em qualquer bebida: + R$ 2,00
+
+Cardápio — comidas:
+- Pão de queijo (porção com 6): R$ 12,00
+- Bolo do dia (fatia): R$ 8,00
+- Sanduíche natural de frango: R$ 16,00
+- Cookie de chocolate: R$ 6,50
+
+Pagamento: Pix, débito e crédito. Não aceitamos cheque.
+
+Wi-Fi: rede "CafePython". A senha está impressa no cupom fiscal.
+
+Delivery: pelo WhatsApp, só para bairros a até 3 km. Taxa fixa de R$ 5,00.
+
+Outras informações:
+- Aceitamos pets na área externa.
+- Temos tomadas em todas as mesas.
+- Não servimos almoço nem bebidas alcoólicas.
+- Toda quarta-feira o cappuccino sai pela metade do preço.
